@@ -1,0 +1,53 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">FabCon 3.D</string>
+    <!--<string name="app_name">ExpoContacts 2017</string>-->
+    <!--<string name="app_name">Photonex 2016</string>-->
+    <string name="btn_add_list">Add to list</string>
+    <string name="btn_remove_list">Remove from list</string>
+    <string name="choose_password">Choose a password</string>
+    <string name="email_address">Email Address</string>
+    <string name="err_all_fields_required">All fields are required</string>
+    <string name="err_email_already_registered">This email address has already been registered</string>
+    <string name="err_invalid_email">The email address is not in a valid format</string>
+    <string name="err_json_error">Error parsing JSON:</string>
+    <string name="err_password_mismatch">The password and confirmation do not match</string>
+    <string name="err_unexpected">An unexpected error occurred:</string>
+    <string name="err_url_error">Failed to fetch URL:</string>
+    <string name="exhibitors">Exhibitors</string>
+    <string name="floor_plan">Floor Plan</string>
+    <string name="forename">First Name</string>
+    <string name="general_info">Info</string>
+    <string name="highlights">Highlights</string>
+    <string name="location">Location:</string>
+    <string name="more_info">&lt;more&gt;</string>
+    <string name="my_exhibitors">Exhibitors</string>
+    <string name="my_list">My List</string>
+    <string name="my_schedule">My Schedule</string>
+    <string name="nav_item_exhibitor_list">Exhibitor List</string>
+    <string name="nav_item_floor_plan">Floor Plan</string>
+    <string name="nav_item_general_info">General Info</string>
+    <string name="nav_item_my_list">My List</string>
+    <string name="nav_item_news_feed">Fair Buzz</string>
+    <string name="nav_item_news">Highlights</string>
+    <string name="nav_item_schedule">Schedule</string>
+    <string name="nav_item_speakers">Speakers</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="news">News</string>
+    <string name="news_feed">Fair Buzz</string>
+    <string name="register">Register</string>
+    <string name="register_instr">In order to post to the event social feed, and to sync your settings with other devices we need to give you a FREE account. Please complete the details below.</string>
+    <string name="registration">Registration</string>
+    <string name="retype_password">Retype your password</string>
+    <string name="schedule">Schedule</string>
+    <string name="schedule_instr">Click one of the days below to see the schedule</string>
+    <string name="speakers">Speakers</string>
+    <string name="surname">Last Name</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="your_name">Your Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
